@@ -3,10 +3,10 @@
   <groupId>br.net.fabiozumbi12.UltimateChat</groupId>
   <artifactId>UltimateChat-JDA</artifactId>
   <versioning>
-    <release>3.2.0-254</release>
+    <release>3.8.3_460</release>
     <versions>
-      <version>3.2.0-254</version>
+      <version>3.8.3_460</version>
     </versions>
-    <lastUpdated>20180219052911</lastUpdated>
+    <lastUpdated>20190226040453</lastUpdated>
   </versioning>
 </metadata>
