@@ -62,11 +62,7 @@
         <!-- Spigot repos -->
         <repository>
             <id>spigot-repo</id>
-            <url>https://hub.spigotmc.org/nexus/content/groups/public/</url>
-        </repository>
-        <repository>
-            <id>essx-repo</id>
-            <url>https://ci.ender.zone/plugin/repository/everything/</url>
+            <url>https://hub.spigotmc.org/nexus/content/repositories/snapshots/</url>
         </repository>
         <repository>
             <id>placeholderapi</id>
@@ -90,10 +86,10 @@
             <url>http://jcenter.bintray.com</url>
         </repository>
 
-        <!-- Essentials repo -->
+        <!-- EssentialsX repo -->
         <repository>
-            <id>EssentialsX</id>
-            <url>http://repo.ess3.net/content/groups/essentials</url>
+            <id>EssentialsX-Vault</id>
+            <url>https://ci.ender.zone/plugin/repository/everything/</url>
         </repository>
 
         <!-- Marriage repo -->
